@@ -6,3 +6,4 @@ Verifying GitHub.com integration
 Checking smart commit in github.com
 starting coding
 as a valid user comiting now
+coding started
